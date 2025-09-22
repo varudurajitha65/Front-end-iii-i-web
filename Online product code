@@ -1,0 +1,40 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+         .aishu{
+      display:grid;
+      display: inline-flex;
+      
+    }
+    </style>
+</head>
+<body>
+          <br>
+  <div class="aishu">
+   <div class="product-card">
+            <img src="file.webp" alt="Product 1">
+            <div class="title">KURTA</div>
+            <div class="price">₹499</div>
+            <a href="#" class="buy-button">Buy Now</a>
+        </div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <br>
+        <div class="product-card">
+            <img src="C:\Users\D\Downloads\WhatsApp Image 2025-09-20 at 7.34.23 PM.jpeg" alt="Product 2" height="150" width="150">
+            <div class="title">Latest Smartphone</div>
+            <div class="price">₹15,999</div>
+            <a href="#" class="buy-button">Buy Now</a>
+        </div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <br>
+        <div class="product-card">
+            <img src="C:\Users\D\Downloads\WhatsApp Image 2025-09-20 at 7.34.24 PM.jpeg" alt="Product 3"  height="150" width="150">
+            <div class="title">Wireless Bluetooth Headphones</div>
+            <div class="price">₹899</div>
+            <a href="#" class="buy-button">Buy Now</a>
+        </div>
+  </div>
+</body>
+</html>
