@@ -1,0 +1,92 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSK VS GT</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        h3{
+            color: red;
+        }
+        h2{
+            color: black;
+        }
+        .highlight-nav{
+            color: blue;
+        }
+        body{
+            color: black;
+        }
+    </style>
+</head>
+<body>
+    <header class="header-container">
+        <nav class="top-nav">
+            <span>NEWS ARTICLE</span>
+            <div class="nav-links">
+           <button><a href="news.html">Home</a></button>
+            <button><a href="D:\aiswarya\parini.jpg">Sports</a></button>
+            <button><a href="D:\aiswarya\neeraj.jpg">World</a></button>
+            </div>
+        </nav>
+        <div class="hero-section">
+            <h1 class="hero-title"></h1>
+            <div class="hero-overlay"></div>
+        </div>
+    </header>
+
+    <main class="article-content">
+        <section class="headline-section">
+            <h2 class="article-headline">TATA IPL 2025 match 67,GT VS CSK-Match Report</h2>
+            <p class="article-summary">csk continued the trend of bottom ranked teams playing the role of party poopers,so GT win by 83 runs</p>
+            <div class="byline">By john doe</div>
+            <div class="date">September 21, 2025</div>
+            <div class="info-box">
+                <h3>CSK win the toss</h3>
+                <p>csk win te toss choose batting first.</p>
+                <p>They would also be worried that they are stumbling at the business end of the tournament, now having lost two in a row. And they will be even more worried that one of the successful top 3 trio, Jos Buttler not being available for the playoffs. The day began with CSK winning the toss and choosing to bat first. </p>
+                <p>at first ayush enter the playground for batting just he scored 38 out of 17 balls then he was out arshad enter the field he made 28 runs in a singe over.then he was out</p>
+            </div>
+        </section>
+
+        <section class="article-body">
+            <div class="content-block">
+                <h3>entry of uril patil and dev convey</h3>
+                <p>They would also be worried that they are stumbling at the business end of the tournament, now having lost two in a row. And they will be even more worried that one of the successful top 3 trio, Jos Buttler not being available for the playoffs. The day began with CSK winning the toss and choosing to bat first. </p>
+                <p> The crowd seemed to await the anticipation of seeing Dhoni in the middle, but that was not to be. Prasidh Krishna was by far the best GT bowler, finishing with 2/22 off his 4 overs. </p>
+                </div>
+
+            <div class="content-block">
+                <h3>batting of GT</h3>
+                <p> In their response, GT looked jaded and by the 5th over had lost their captain Shubman and their overseas batters Buttler and Rutherford with the scoreboard reading 30.</p>
+                <p>Shahrukh Khan and Sai Sudharshan tried rebuilding, scoring a fifty-plus partnership, but the scoreboard pressure got to them, and Jadeja provided a twin strike in the 11th over, ensuring that the game was all but over.  </p>
+                </div>
+
+            <div class="content-block">
+                <h3>winning moment of GT</h3>
+                <p>With the game in the bag, CSK proceeded to give opportunities to their part-timers a go alongside their overseas pair of Noor Ahmed and Pathirana, who duly helped them complete the formalities, bowling GT out for a total of 147. Noor and Kamboj were the pick of the bowlers with 3 wickets each.</p>
+                <p>GT won with 83 runs against CSK.this made the them victory</p>
+                </div>
+
+            <div class="content-block">
+                <h3>Match Highlights in Pictures</h3>
+                <nav class="highlights-nav">
+                    <button>celebration 1</button>
+                    &nbsp;
+                    <img src="D:\aiswarya\parini.jpg" alt="error" height="250" width="250">
+                    <button>Big hit</button>
+                    &nbsp;
+                    <img src="D:\aiswarya\neeraj.jpg" alt="error" height="250" width="250">
+                    <button>Highlights</button>
+                    &nbsp;
+                    <img src="D:\aiswarya\dedeep.jpg" alt="error" height="250" width="250">
+                    <button>Wickets</button>
+                    &nbsp;
+                    <img src="D:\aiswarya\maa.jpg" alt="error" height="250" width="250">
+                </nav>
+            </div>
+        </section>
+    </main>
+</body>
+</html>
