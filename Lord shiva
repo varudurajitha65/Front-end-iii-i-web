@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lord SIVA</title>
+     </head>
+<body>
+    <header>
+        <div class="logo">
+            </div>
+        <nav>
+            </nav>
+    </header>
+
+    <main>
+        <section class="hero-section">
+            <div class="hero-content">
+                <h1>Lord SIVA</h1>
+                <h2>ord Shiva, or Mahadev, is a major deity in Hinduism, forming the divine trinity.</h2>
+                <p>  He is revered as the destroyer and transformer of the universe, the patron of yoga and meditation, and a benefactor of his devotees. Symbolically, he's depicted with a third eye, a crescent moon in his hair, a snake around his neck, ashes on his body, and a trident, signifying his role as the supreme lord of the gods. </p>
+            </div>
+        </section>
+
+        <section class="journey-section">
+            <h2>A Journey Through Time</h2>
+            <div class="timeline">
+                <div class="timeline-item">
+                    <h3>The Destroyer/Transformer: </h3>
+                    <p>Shiva's primary role is to destroy the universe so it can be renewed. This destructive power is balanced by his benevolent nature, as he is also the one who removes evil and transforms things for the better. .</p>
+                </div>
+                <div class="timeline-item">
+                    <h3>The First Yogi:</h3>
+                    <p>Shiva is considered the Adiyogi, the first yogi, and the source of immense spiritual power and knowledge, symbolized by his third eye. </p>
+                </div>
+                <div class="timeline-item">
+                    <h3>The Ideal Husband and Father</h3>
+                    <p>Shiva is seen as a loving husband to Parvati and a devoted father to their sons, Ganesha and Kartikaya. </p>
+                </div>
+                <div class="timeline-item">
+                    <h3>Name and Meaning:</h3>
+                    <p>The name "Shiva" means "auspicious" or "propitious" in Sanskrit, reflecting his benevolent and kind nature</p>
+                </div>
+                <div class="timeline-item">
+                    <h3>Significance</h3>
+                    <p>He is worshipped by Shaivites as the Supreme God. 
+He grants wisdom, protection, and freedom from the cycle of rebirth (moksha) to his devotees. </p>
+                </div>
+            </div>
+        </section>
+
+        <section class="achievements-section">
+            <h2>Achievements & Virtues</h2>
+            <div class="virtues-grid">
+                <div class="virtue-card">
+                    <img src="C:\Users\D\Pictures\kottappakonda.jpg" alt="An Ideal King" height="150" width="150">
+                    <h3>THE PROTECTOR</h3>
+                    <p>He embodies paradox, being both an ascetic and a householder, the destroyer and a benefactor.</p>
+                </div>
+                <div class="virtue-card">
+                    <img src="D:\aiswarya\siva.jpg" alt="Upholder of Dharma" height="150" width="150">
+                    <h3>Serpent:</h3>
+                    <p>A snake around his neck symbolizes his mastery over death and his ability to overcome fears. </p>
+                </div>
+                <div class="virtue-card">
+                    <img src="D:\aiswarya\tri.jpg" alt="Mighty Warrior" height="150" width="150">
+                    <h3>Third Eye:</h3>
+                    <p> Located on his forehead, this third eye symbolizes knowledge, insight, and cosmic power.</p>
+                    </div>
+        </section>
+
+        <section class="quotes-section">
+            <h2>Inspirational Quotes</h2>
+            <div class="quote-box">
+                <p>You cannot control life,but you can learn to accept it</p>
+                <span>- Lord SIVA</span>
+            </div>
+            <div class="quote-box">
+                <p>Fear nit,for I am always protect you</p>
+                <span>- Lord SIVA(attributed)</span>
+            </div>
+        </section>
+
+        <section class="gallery-section">
+            <h2>Gallery</h2>
+            <div class="gallery-grid">
+               <img src="D:\aiswarya\arunachalam.jpg" alt="error" height="150" width="150">
+               <img src="D:\aiswarya\sri.jpg" alt="error" height="150" width="150">
+               <img src="D:\aiswarya\kedar.jpg" alt="error" height="150" width="150">
+            </div>
+            <a href="#" class="learn-more-button">Learn More About Lord siva's Life</a>
+        </section>
+
+    </main>
+
+    <footer>
+        <p>&copy; 2023 siva biography. All Rights Reserved.</p>
+        <div class="social-links">
+            </div>
+        <button id="print-cv-button">Printable CV</button>
+        <div class="stretch-goals">
+            <button>Add printable CV view</button>
+            <div class="social-share-buttons">
+                </div>
+        </div>
+    </footer>
+
+    
+</body>
+</html>
